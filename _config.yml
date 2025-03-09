@@ -52,7 +52,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
- # email: "someone@example.com"
+ # email: "mail@holoworld.info"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: 123
   github: holo-world
@@ -66,7 +66,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "390/ali"
 #  snapchat: dean
-#  instagram: dean
+  instagram: holoworldtv
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: dean
