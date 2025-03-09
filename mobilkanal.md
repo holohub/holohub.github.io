@@ -3,7 +3,7 @@ layout: page
 title: mobilkanal
 permalink: /mobilkanal/
 subtitle: Hayatın mobil yansıması 📱
-cover-img: /assets/img/mk-logo/pixabay-smartphone-407108_1920.jpg
+#cover-img: /assets/img/mk-logo/pixabay-smartphone-407108_1920.jpg
 ---
 
 Amatör olarak cep telefonundan çekilen her türlü şeyin yayınlandığı bölüm. 
@@ -12,7 +12,7 @@ Eğlence, arşiv ve boş zamanlarda can sıkıntısını gidermek için yapılan
 
 ![](/assets/img/mk-logo/mk-avatar-icon-200.png)
 
-- **E-mail:** [maill@holoworld.info](mailto:mail@holoworld.info)
+- **E-mail:** [mail@holoworld.info](mailto:mail@holoworld.info)
 - **Instagram:** [https://instagram.com/mobilkanal](https://instagram.com/mobilkanal)
 - **YouTube:** [https://youtube.com/mobilkanal](https://youtube.com/mobilkanal)
 - **TikTok:** [https://tiktok.com/@mobilkanal](https://tiktok.com/@mobilkanal)
