@@ -4,27 +4,29 @@
 ### set up your website you should go through all these settings and edit them, but after
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
-
+language: tr
 ############################
 # --- Required options --- #
 ############################
 
 # Name of website
-title: My website
+title: HoloWorld
 
 # Your name to show in the footer
-author: Some Person
+author: holoworld.info
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Hakkında: "hakkinda"
+  İletişim: "iletisim"
+  #Sosyal Medya:
+  #  - YouTube: "https://www.youtube.com/holoworldtv"
+  #  - Instagram: "https://www.instagram.com/holoworldtv"
+  #  - Twitter: "https://twitter.com/holoworld"
+  #holoworld.info: "https://www.holoworld.info"
 
 ################
 # --- Logo --- #
@@ -50,30 +52,30 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+ # email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+ # facebook: 123
+  github: holo-world
+  twitter: holoworld
+  patreon: holo_world
+  youtube: "@holoworldtv"
+#  whatsapp: 1234
+  medium: holoworld
+  reddit: r/holoworld
+#  linkedin: xxx
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "390/ali"
+#  snapchat: dean
+#  instagram: dean
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
+#  steam: dean
+  twitch: holoworld
 #  yelp: yourname
-#  telegram: yourname
+  telegram: holoworld
 #  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
+  mastodon: mastodon.social/@holoworld
+  bluesky: holoworld
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
@@ -85,7 +87,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Bir başka gerçeklik serüveni hikayeleri
 
 ###########################
 # --- General options --- #
@@ -100,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "HoloWorld.info"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -134,17 +136,31 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+#chatgpt'den koyu
+page-col: "#1E1E1E"
+text-col: "#E0E0E0"
+link-col: "#4A90E2"
+hover-col: "#357ABD"
+navbar-col: "#2C2C2C"
+navbar-text-col: "#E0E0E0"
+navbar-border-col: "#444444"
+footer-col: "#2C2C2C"
+footer-text-col: "#A0A0A0"
+footer-link-col: "#E0E0E0"
+footer-hover-col: "#357ABD"
+
+#default
+#page-col: "#FFFFFF"
+#text-col: "#404040"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#navbar-col: "#EAEAEA"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#DDDDDD"
+#footer-col: "#EAEAEA"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
+#footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -258,11 +274,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Istanbul"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+permalink: /:year/:month/:day/:title/
+paginate: 10
 
 kramdown:
   input: GFM
