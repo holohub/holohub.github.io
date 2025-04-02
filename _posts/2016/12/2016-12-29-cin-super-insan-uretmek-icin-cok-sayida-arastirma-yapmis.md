@@ -18,8 +18,6 @@ thumbnail-img: /assets/img/2021/02/hacker-dream-laptop-gizemli-teknoloji-guvenli
   
 ---
 
-![](/assets/img/2016/12/cin-shanghai-sangay-gokdelen-nehir-4-4-2016.JPG)
-
 Bilgi edinme özgürlüğü yasası ile (Freedom of Information Act) kısa süre önce ortaya çıkarılan gizli belge, Çin hükümetinin **telepati**, **psikokinezi**, **approbation(?)**, **aerokinesis (hava ve hava olaylarını kontrol)**, **durugörü**, **duruişiti** vs gibi insan üstü güçler üzerine büyük ölçekli araştırmalar yaptığını ortaya koyuyor. ABD Merkezi İstihbarat Dairesi’de (**CIA**), bu çalışmaları değerlendirdiği ve sonuçları kamuoyundan gizleyerek benzer araştırmalar yapmış olabileceği biliniyor.
 
 “Çin Halk Cumhuriyeti’nde İnsan Vücudunun İstisnai İşlevlerine Son Kronolojisi” başlıklı belge, CIA’nın web sitesinde <a href="https://www.cia.gov/library/readingroom/document/cia-rdp96-00792r000400300011-9" target="_blank" rel="noreferrer noopener nofollow"><strong>bulunabilir.</strong></a> <!-- (**<a href="https://www.evernote.com/shard/s214/sh/a9612dec-314b-40fa-9883-221a3bb0166b/dae43d9cee2f02b9cf953f87768f820c" target="_blank" rel="noreferrer noopener nofollow"><strong>evernote</strong></a>**). --> Çin hükümetinin ve diğer ajansların binlerce çocuğun insanüstü yetenekler için ayrıntılı araştırıldığı ve testlerden geçmesi için finanse edildiği belirtiliyor.
