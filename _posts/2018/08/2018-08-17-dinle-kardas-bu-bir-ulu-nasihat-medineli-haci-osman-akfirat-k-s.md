@@ -9,6 +9,9 @@ tags:
   - "dini-sohbet"
   - "yazilar"
   - "siir"
+cover-img: /assets/img/2014/04/yesil-isik-sacak-siir-yazi-kitap-sayfa-yz-bing-ai-image-creator.jpeg
+share-img: /assets/img/2014/04/yesil-isik-sacak-siir-yazi-kitap-sayfa-yz-bing-ai-image-creator.jpeg
+thumbnail-img: /assets/img/2014/04/yesil-isik-sacak-siir-yazi-kitap-sayfa-yz-bing-ai-image-creator.jpeg
 ---
 
 **Dinle kardaş bu bir ulu nasihat….**
