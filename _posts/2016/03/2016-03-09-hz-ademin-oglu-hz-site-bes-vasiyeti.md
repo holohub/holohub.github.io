@@ -9,6 +9,7 @@ tags:
   - "dini-sohbet"
   - "nasihat"
   - "yazilar"
+  - "alinti"
 cover-img: /assets/img/2016/03/yasli-adam-genc-cocuk-eski-nasihat-bing-image-generator-nisan-2024.jpeg
 share-img: /assets/img/2016/03/yasli-adam-genc-cocuk-eski-nasihat-bing-image-generator-nisan-2024.jpeg
 thumbnail-img: /assets/img/2016/03/yasli-adam-genc-cocuk-eski-nasihat-bing-image-generator-nisan-2024.jpeg

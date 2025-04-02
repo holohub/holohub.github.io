@@ -11,6 +11,7 @@ tags:
   - "siyonist"
   - "yahudi"
   - "yazilar"
+  - "video"
 cover-img: /assets/img/2016/12/ahmed-tomor-hoca-efendi-977-video-foto.jpg
 share-img: /assets/img/2016/12/ahmed-tomor-hoca-efendi-977-video-foto.jpg
 thumbnail-img: /assets/img/2016/12/ahmed-tomor-hoca-efendi-977-video-foto.jpg

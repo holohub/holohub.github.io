@@ -8,6 +8,7 @@ tags:
   - "din"
   - "hadis"
   - "yazilar"
+  - "alinti"
 cover-img: /assets/img/2016/09/kuba-mescidi-camii-medine-islam.jpg
 share-img: /assets/img/2016/09/kuba-mescidi-camii-medine-islam.jpg
 thumbnail-img: /assets/img/2016/09/kuba-mescidi-camii-medine-islam.jpg

@@ -13,7 +13,7 @@ share-img: /assets/img/2016/02/kacmak-kosan-adam-renk-bing-image-creator.jpeg
 thumbnail-img: /assets/img/2016/02/kacmak-kosan-adam-renk-bing-image-creator.jpeg
 ---
 
-**Abbott:** Bunun daha ne kadar devam etmesine izin vereksin?  
+**Abbott:** Bunun daha ne kadar devam etmesine izin vereceksin?  
 **Jane:** Ne?  
 **Abbott:** Onu Vaşington’a götüreceğini biliyorsun, değil mi?  
 **Jane:** Ne yapmak isterse onu yapacaktır.  

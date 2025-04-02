@@ -17,12 +17,12 @@ thumbnail-img: /assets/img/2017/04/orjinal-misak-i-milli-metni-turkce-1024x910-1
 
 Orijinal Metni, Tercümesi ve Günümüz Türkçesi ile Misak-ı Milli metni.
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2017/04/orjinal-misak-i-milli-metni-1-706x1024-1.jpeg)
+![](/assets/img/2017/04/orjinal-misak-i-milli-metni-1-706x1024-1.jpeg)
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2017/04/orjinal-misak-i-milli-metni-2-701x1024-1.jpeg)
+![](/assets/img/2017/04/orjinal-misak-i-milli-metni-2-701x1024-1.jpeg)
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2017/04/orjinal-misak-i-milli-metni-3-705x1024-1.jpeg)
+![](/assets/img/2017/04/orjinal-misak-i-milli-metni-3-705x1024-1.jpeg)
 
-![](https://holomirror.wordpress.com/wp-content/uploads/2017/04/orjinal-misak-i-milli-metni-turkce-1024x910-1.jpeg)
+![](/assets/img/2017/04/orjinal-misak-i-milli-metni-turkce-1024x910-1.jpeg)
 
 Kaynak: [https://twitter.com/devletarsivleri/status/788005540681113600](https://twitter.com/devletarsivleri/status/788005540681113600)
