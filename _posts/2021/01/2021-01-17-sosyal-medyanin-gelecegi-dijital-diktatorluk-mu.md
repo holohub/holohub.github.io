@@ -15,7 +15,7 @@ share-img: /assets/img/2021/01/donald-trump-twitter-hesabi-askiya-alindi-2021.jp
 thumbnail-img: /assets/img/2014/03/satilik-medya.jpg
 ---
 
-Dünyanın en güçlü veya etkili insanı kim diye sorulsa, benim gibi sıradan biri **ABD başkanı** derdi diye tahmin ediyorum. Kimsenin yadsıyamayacağı bir gerçek var. O da sevmesekte ABD’nin en güçlü ülke olduğu gerçeği. Ama düşünün ki, ABD başkanın bile **twitter hesabı askıya alınabiliyor**. Belki kendi ülkesine darbe yapmaya kalkıştı, yandaşlarına kongreyi hedef gösterdi falan ama yıllardır yaptığı şeyi yapmaya devam ediyordu aslında. _Senelerdir kanun tanımaz, otokratik, ayrıştırıcı ve hedef gösteren tweetler atıyordu._ Artık değişen tek bir şey var, **‘ABD başkanı’ olarak etkisi ve gücü kalmadı.**
+Dünyanın en güçlü veya etkili insanı kim diye sorulsa, benim gibi sıradan biri **ABD başkanı** derdi diye tahmin ediyorum. Kimsenin yadsıyamayacağı bir gerçek var. O da sevmesek de ABD’nin en güçlü ülke olduğu gerçeği. Ama düşünün ki, ABD başkanın bile **twitter hesabı askıya alınabiliyor**. Belki kendi ülkesine darbe yapmaya kalkıştı, yandaşlarına kongreyi hedef gösterdi falan ama yıllardır yaptığı şeyi yapmaya devam ediyordu aslında. _Senelerdir kanun tanımaz, otokratik, ayrıştırıcı ve hedef gösteren tweetler atıyordu._ Artık değişen tek bir şey var, **‘ABD başkanı’ olarak etkisi ve gücü kalmadı.**
 
 ![](/assets/img/2021/01/donald-trump-twitter-hesabi-askiya-alindi-2021.jpg)
 
