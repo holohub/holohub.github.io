@@ -9,6 +9,8 @@ tags:
   - "bilim"
   - "hack"
   - "lusid-ruya"
+  - "berrak-ruya"
+  - "seffaf-ruya"
   - "ruya"
   - "uyku"
   - "yazilar"

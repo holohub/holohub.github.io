@@ -8,8 +8,8 @@ categories:
 tags: 
   - "hayat"
   - "hiss"
-  - "hiss1"
-  - "ortam-sesleri"
+  - "hiss-1"
+  - "ortam-sesi"
   - "video"
   - "ses"
 cover-img: /assets/img/2021/04/hiss-1-metro-yansima-tunel-ray-tren.jpg
