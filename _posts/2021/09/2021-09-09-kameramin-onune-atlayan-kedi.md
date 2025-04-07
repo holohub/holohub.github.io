@@ -9,6 +9,7 @@ tags:
   - "hayvanlar-alemi"
   - "istanbul"
   - "sultanahmet"
+  - "gorseller"
 share-img: /assets/img/2021/09/sultanahmet-kedi-tekir-7.jpg
 thumbnail-img: /assets/img/2021/09/sultanahmet-kedi-tekir-7.jpg
 ---
