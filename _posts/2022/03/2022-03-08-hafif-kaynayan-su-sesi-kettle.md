@@ -11,6 +11,7 @@ tags:
   - "kettle"
   - "ses-kaydi"
   - "su"
+  - "su-sesi"
   - "ses"
 cover-img: /assets/img/2022/03/foto-2020-9-27-yuksek-kaliteli-su-kaynama-sesi-1.png
 share-img: /assets/img/2022/03/foto-2020-9-27-yuksek-kaliteli-su-kaynama-sesi-1.png

@@ -9,6 +9,7 @@ tags:
   - "evsel"
   - "ses-kaydi"
   - "su"
+  - "su-sesi"
   - "su-doldurma"
   - "ses"
 cover-img: /assets/img/2022/03/bardak-sise-su-mutfak-masa-icecek.jpg

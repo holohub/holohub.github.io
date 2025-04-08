@@ -9,6 +9,7 @@ tags:
   - "egitim"
   - "kagit"
   - "sayfa"
+  - "ofis"
   - "sayfa-cevirme"
   - "ses-kaydi"
   - "ses"
