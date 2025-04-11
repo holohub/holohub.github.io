@@ -15,7 +15,7 @@ share-img: /assets/img/2025/04/ahmed-tomor-hoca-efendi-sohbet-161-video-ekran-re
 thumbnail-img: /assets/img/2025/04/ahmed-tomor-hoca-efendi-sohbet-161-video-ekran-resmi.png
 ---
 
-Peygamber efendimiz Hz. Muhammed (s.a.v.)'in ashabına yaptığı sohbette bu yedi emri bildirmiştir. Sohbetin tamamı ve tafsilatlı açıklmaları için mutlaka videoyu izlemenizi öneririm.
+Peygamber efendimiz Hz. Muhammed (s.a.v.)'in ashabına yaptığı sohbette bu yedi emri bildirmiştir. Sohbetin tamamı ve tafsilatlı açıklamaları için mutlaka videoyu izlemenizi öneririm.
 
 1. Hastaları ziyaret etmek. (Hasta ziyeretinin makbulü kısa olanıdır.)
 2. Cenazelere katılmak, yakınlarına yardımcı olmak.
