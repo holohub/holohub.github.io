@@ -4,6 +4,7 @@ title: "Deniz sesi eşliğinde Kız Kulesi ve İstanbul Boğazında 1 Saatlik Se
 date: "2022-07-03"
 categories: 
   - "sesler"
+  - "videolar"
 tags: 
   - "uskudar"
   - "deniz-sesi"
