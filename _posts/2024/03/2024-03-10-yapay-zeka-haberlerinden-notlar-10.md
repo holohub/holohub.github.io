@@ -20,6 +20,7 @@ tags:
   - "sk-hynix"
   - "yapay-zeka"
   - "yapay-zeka-haberleri"
+  - "yapay-zeka-notlari"
   - "yapay-zeka-modeli"
   - "yazilar"
 cover-img: /assets/img/2024/01/yapay-zeka-mobil-notlar-ekran-insan-kalem-bin-image-creator-1.jpg

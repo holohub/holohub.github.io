@@ -21,7 +21,7 @@ tags:
   - "vlogger"
   - "yapay-zeka"
   - "yapay-zeka-haberleri"
-  - "yapay-zeka-modelleri"
+  - "yapay-zeka-modeli"
   - "yapay-zeka-notlari"
   - "yazilar"
   - "youtube"

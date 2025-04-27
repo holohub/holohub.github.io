@@ -20,7 +20,7 @@ tags:
   - "openai"
   - "samsung"
   - "yapay-zeka"
-  - "yapay-zeka-cipi"
+  - "cip"
   - "yapay-zeka-haberleri"
   - "yapay-zeka-klonlari"
   - "yapay-zeka-notlari"
