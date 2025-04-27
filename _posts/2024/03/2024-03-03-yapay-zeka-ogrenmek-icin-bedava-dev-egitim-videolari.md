@@ -26,8 +26,7 @@ tags:
   - "yapay-zeka-ogrenmek"
   - "yapay-zeka-dersleri"
   - "yapay-zeka-kursu"
-  - "yapay-zeka-modelleri"
-  - "yapay-zeka-videolari"
+  - "yapay-zeka-modeli"
 cover-img: /assets/img/2024/03/robot-adam-cizim-yapay-zeka-ders-izlemek-tv-bing-image-creator-mart-2024-1.jpeg
 share-img: /assets/img/2024/03/robot-adam-cizim-yapay-zeka-ders-izlemek-tv-bing-image-creator-mart-2024-1.jpeg
 thumbnail-img: /assets/img/2024/03/robot-adam-cizim-yapay-zeka-ders-izlemek-tv-bing-image-creator-mart-2024-1.jpeg

@@ -11,7 +11,6 @@ tags:
   - "uretken-yapay-zeka"
   - "chatgpt"
   - "copilot"
-  - "copilot-for-finance"
   - "elon-musk"
   - "jensen-huang"
   - "meta"
