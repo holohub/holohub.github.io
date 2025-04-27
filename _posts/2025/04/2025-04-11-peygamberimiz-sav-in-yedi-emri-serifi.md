@@ -17,7 +17,7 @@ thumbnail-img: /assets/img/2025/04/ahmed-tomor-hoca-efendi-sohbet-161-video-ekra
 
 Peygamber efendimiz Hz. Muhammed (s.a.v.)'in ashabına yaptığı sohbette bu yedi emri bildirmiştir. Sohbetin tamamı ve tafsilatlı açıklamaları için mutlaka videoyu izlemenizi öneririm.
 
-1. Hastaları ziyaret etmek. (Hasta ziyeretinin makbulü kısa olanıdır.)
+1. Hastaları ziyaret etmek. (Hasta ziyaretinin makbulü kısa olanıdır.)
 2. Cenazelere katılmak, yakınlarına yardımcı olmak.
 3. Hapşıran kişi "Elhamdülilah" derse, karşılık olarak "Yerhamükallah" -Allah sana rahmet etsin- demek.
 4. Bir müslüman yemin etmişse, ona yeminini tutması için yardım etmek.
