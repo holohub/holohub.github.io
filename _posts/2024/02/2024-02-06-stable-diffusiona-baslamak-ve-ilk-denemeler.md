@@ -25,7 +25,7 @@ thumbnail-img: /assets/img/2024/02/stable-diffusion-futurist-gelecek-sehir-bina-
 
 Her şey güzel ama stable diffusion konseptini anlamak için temel bir zemin oluşturmalıydım. Ne olduğunu anlamak, nasıl çalıştığını ve ne tür avantajlar sunduğunu araştırmaya başladım. Bu konuda yapılan çevrimiçi araştırmalar ve birçok kaynaktan bilgi edinme süreci oldukça faydalı. Youtube’da [Can Sungur](https://www.youtube.com/watch?v=CmqLH9KBIHI&list=PLLkT9MAdXYABG0GmcSZaxQI4m47pecfb9) ve [Umut Yıldırım](https://www.youtube.com/playlist?list=PLB9h0mWdzbHK-G0Nzy8EqhftZl0cbp4CB)‘ın stable diffusion videolarıyla başladım. Benim gibi kodlama ve teknik bilgisi olmayan biri için [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) webui uygulamasını indirmek bu işe adım atmak için yeterliydi.
 
-![](assets/img/2024/02/ekran-karti-fan-pc-palit-asus-gtx-rtx-4070-ti-super-1024x768-1.jpg)
+![](/assets/img/2024/02/ekran-karti-fan-pc-palit-asus-gtx-rtx-4070-ti-super-1024x768.jpg)
 
 Pratik yapmak da öğrenme sürecinin ayrılmaz bir parçasıdır. Yeni ekran kartınızı kullanarak stabil difüzyonun sunduğu faydaları deneyimleyebilir, farklı ayarları test edebilir ve performans artışını gözlemleyebilirsiniz. Ayrıca, online topluluklarda diğer kullanıcıların deneyimlerini okuyarak ve onlardan tavsiye alarak da öğrenme sürecinizi zenginleştirebilirsiniz.
 
