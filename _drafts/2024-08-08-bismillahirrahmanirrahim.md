@@ -1,6 +1,6 @@
 ---
 title: "Bismillâhirrahmânirrahîm"
-date: "2024-08-08"
+date: "2020-08-08"
 categories: 
   - "blog"
 tags: 
