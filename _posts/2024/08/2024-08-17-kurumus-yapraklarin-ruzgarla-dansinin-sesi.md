@@ -9,6 +9,7 @@ tags:
   - "ses"
   - "video"
   - "yaprak"
+  - "ses-kaydi"
 cover-img: /assets/img/2022/10/cimen-yaprak-toprak-doga-park-1024x683-1.jpg
 share-img: /assets/img/2022/10/cimen-yaprak-toprak-doga-park-1024x683-1.jpg
 thumbnail-img: /assets/img/2022/10/cimen-yaprak-toprak-doga-park-1024x683-1.jpg

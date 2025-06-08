@@ -14,6 +14,7 @@ tags:
   - "sokak-sanatcisi"
   - "video"
   - "ses"
+  - "ses-kaydi"
 cover-img: /assets/img/2024/01/kadikoy-sahil-istanbuk-vapur-deniz-10-ocak-2024-1024x768-1.jpg
 share-img: /assets/img/2024/01/kadikoy-sahil-istanbuk-vapur-deniz-10-ocak-2024-1024x768-1.jpg
 thumbnail-img: /assets/img/2024/01/kadikoy-sahil-istanbuk-vapur-deniz-10-ocak-2024-1024x768-1.jpg

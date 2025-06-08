@@ -10,6 +10,7 @@ tags:
   - "marti"
   - "ses"
   - "video"
+  - "ses-kaydi"
 cover-img: /assets/img/2024/02/galata-koprusu-karakoy-sahil-deniz-istanbul-ocak-2023-759x1024-1.jpg
 share-img: /assets/img/2024/02/galata-koprusu-karakoy-sahil-deniz-istanbul-ocak-2023-759x1024-1.jpg
 thumbnail-img: /assets/img/2024/02/galata-koprusu-karakoy-sahil-deniz-istanbul-ocak-2023-759x1024-1.jpg
