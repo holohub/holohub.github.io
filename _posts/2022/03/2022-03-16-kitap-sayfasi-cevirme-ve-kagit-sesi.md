@@ -20,4 +20,4 @@ thumbnail-img: /assets/img/2022/03/cilt-eski-kitap-desen.jpg
 
 Kitap sayfası çevirme ve kâğıt sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/eski-kitap-sayfa-cevirme-ve-kagit-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/eski-kitap-sayfa-cevirme-ve-kagit-sesi.mp3)

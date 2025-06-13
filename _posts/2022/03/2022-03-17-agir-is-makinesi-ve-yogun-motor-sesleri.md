@@ -18,4 +18,4 @@ thumbnail-img: /assets/img/2022/03/araba-motor-kaput-aku-mekanik.jpg
 
 Ağır iş makinesi ve yoğun motor sesleri
 
-[Ses Dosyası](/assets/sounds/2022/03/agir-is-makinesi-ve-yogun-motor-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/agir-is-makinesi-ve-yogun-motor-sesi.mp3)

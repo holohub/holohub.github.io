@@ -21,4 +21,4 @@ thumbnail-img: /assets/img/2022/03/bayrak-uskudar-trafik-yol.jpg
 
 Şehir içi yoğun trafik ve korna sesleri
 
-[Ses Dosyası](/assets/sounds/2022/03/sehir-ici-yogun-trafik-ve-korna-sesleri.mp3)
+[Ses Dosyası](/assets/sound/2022/03/sehir-ici-yogun-trafik-ve-korna-sesleri.mp3)

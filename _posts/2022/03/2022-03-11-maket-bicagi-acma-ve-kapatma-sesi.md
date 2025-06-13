@@ -18,4 +18,4 @@ thumbnail-img: /assets/img/2022/03/maket-bicak-alet-mavi-ofis.jpg
 
 Maket bıçağı açma ve kapatma sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/maket-bicagi-acma-ve-kapatma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/maket-bicagi-acma-ve-kapatma-sesi.mp3)

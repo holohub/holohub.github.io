@@ -19,4 +19,4 @@ thumbnail-img: /assets/img/2022/03/elektrikli-supurge-makine-temizlik-ev-nisan-2
 
 Elektrikli süpürge sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/elektrik-supurgesi-ev-temizligi-makine-hava-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/elektrik-supurgesi-ev-temizligi-makine-hava-sesi.mp3)

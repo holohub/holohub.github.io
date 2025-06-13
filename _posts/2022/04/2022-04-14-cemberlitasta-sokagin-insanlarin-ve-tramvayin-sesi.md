@@ -21,4 +21,4 @@ thumbnail-img: /assets/img/2022/04/eminonu-tramvay-trafik-yol.jpg
 
 Çemberlitaş'ta sokağın, insanların ve tramvayın sesi
 
-[Ses Dosyası](/assets/sounds/2022/04/sokak-trafik-insan-sesleri-konusmalar-tramvay-sesleri-cemberlitas.mp3)
+[Ses Dosyası](/assets/sound/2022/04/sokak-trafik-insan-sesleri-konusmalar-tramvay-sesleri-cemberlitas.mp3)

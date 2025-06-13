@@ -19,7 +19,7 @@ Bu sese bayılıyorum dediğim seslerden biri. Kurumuş yaprakların rüzgarla d
 
 Bir sonrakine daha uzun ve yüksek kaliteli şekilde kaydetmek için yapılacaklar listesine ekledim.
 
-[Ses Dosyası](/assets/sounds/2024/08/kurumus-yapraklarin-sesi.mp3)
+[Ses Dosyası](/assets/sound/2024/08/kurumus-yapraklarin-sesi.mp3)
 
 <https://www.youtube.com/watch?v=HxNO_sTULvM>
 

@@ -18,4 +18,4 @@ thumbnail-img: /assets/img/2022/03/testere-uc-agac-kesme-dis-bicak.jpg
 
 Elektrikli zincirli ağaç kesme makinesi ve testere sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/elektrikli-zincirli-agac-kesme-makinesi-testere-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/elektrikli-zincirli-agac-kesme-makinesi-testere-sesi.mp3)

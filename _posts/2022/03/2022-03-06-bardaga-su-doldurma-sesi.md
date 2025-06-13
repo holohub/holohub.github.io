@@ -19,4 +19,4 @@ thumbnail-img: /assets/img/2022/03/bardak-sise-su-mutfak-masa-icecek.jpg
 
 Bardağa su doldurma sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/bardaga-su-doldurma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/bardaga-su-doldurma-sesi.mp3)

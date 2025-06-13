@@ -19,4 +19,4 @@ thumbnail-img: /assets/img/2022/03/patpat-havali-naylon-esya.jpg
 Havalı naylon (patpat) sıkma ve patlatma sesi
 
 
-[Ses Dosyası](/assets/sounds/2022/03/havali-naylon-patpat-sikma-patlatma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/havali-naylon-patpat-sikma-patlatma-sesi.mp3)

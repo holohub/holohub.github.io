@@ -24,6 +24,6 @@ thumbnail-img: /assets/img/2022/07/kiz-kulesi-bogaz-salacak.jpg
 
 Deniz sesi eşliğinde Kız Kulesi ve İstanbul Boğazında 1 Saatlik Ses Kaydı
 
-[Ses Dosyası](/assets/sounds/2022/07/uskudar-salacak-sahilde-deniz-ve-insanlarin-sesi-1-saat-2022-7-1.mp3)
+[Ses Dosyası](/assets/sound/2022/07/uskudar-salacak-sahilde-deniz-ve-insanlarin-sesi-1-saat-2022-7-1.mp3)
 
 <https://www.youtube.com/watch?v=iRTfr0T1HK4>

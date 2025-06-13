@@ -21,4 +21,4 @@ thumbnail-img: /assets/img/2022/03/merdiven-inme-apartman-kat.jpg
 
 Apartman içinde yürüme ve merdivenlerden inme sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/apartman-bina-icinde-yurume-ve-merdivenden-inme-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/apartman-bina-icinde-yurume-ve-merdivenden-inme-sesi.mp3)

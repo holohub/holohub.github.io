@@ -20,4 +20,4 @@ thumbnail-img: /assets/img/2022/03/foto-2020-9-27-yuksek-kaliteli-su-kaynama-ses
 
 Hafif kaynayan su sesi (kettle)
 
-[Ses Dosyası](/assets/sounds/2022/03/kettle-hafif-kaynayan-su-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/kettle-hafif-kaynayan-su-sesi.mp3)

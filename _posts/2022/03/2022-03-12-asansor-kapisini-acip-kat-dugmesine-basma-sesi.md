@@ -20,4 +20,4 @@ thumbnail-img: /assets/img/2022/03/asansor-kapisi-bina-apartman.jpg
 
 Asansör kapısını açıp kat düğmesine basma sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/asansor-kapisini-acma-ve-asansore-binip-dugmeye-basma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/asansor-kapisini-acma-ve-asansore-binip-dugmeye-basma-sesi.mp3)

@@ -19,4 +19,4 @@ thumbnail-img: /assets/img/2022/03/doritos-ruffles-patates-cips-atistirmalik.jpe
 
 Cips poşetini mıncıklama sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/cips-poseti-minciklama-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/cips-poseti-minciklama-sesi.mp3)

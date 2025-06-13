@@ -20,5 +20,5 @@ thumbnail-img: /assets/img/2022/02/kagit-kursun-kalem-yazi-yazma-el-parmak-kitap
 
 Kağıda kurşun kalemle yazı yazma sesi
 
-[Ses Dosyası](/assets/sounds/2022/02/kagida-kursun-kalemle-yazi-yazma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/02/kagida-kursun-kalemle-yazi-yazma-sesi.mp3)
 

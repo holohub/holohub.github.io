@@ -20,4 +20,4 @@ thumbnail-img: /assets/img/2022/02/printer-hep-yazici-tarayici-modem-internet-fo
 
 Yazıcıdan çıktı alma sesi
 
-[Ses Dosyası](/assets/sounds/2022/02/yazicidan-cikti-alma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/02/yazicidan-cikti-alma-sesi.mp3)

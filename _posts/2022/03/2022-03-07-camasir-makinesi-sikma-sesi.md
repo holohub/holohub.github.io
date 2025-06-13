@@ -19,4 +19,4 @@ thumbnail-img: /assets/img/2022/03/foto-2020-9-12-camasir-makinesi-sesi-1024x576
 
 Çamaşır makinesi sıkma sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/camasir-makinesi-sikma-sesi.mp3)
+[Ses Dosyası](/asset/sounds/2022/03/camasir-makinesi-sikma-sesi.mp3)

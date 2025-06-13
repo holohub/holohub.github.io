@@ -18,7 +18,7 @@ thumbnail-img: /assets/img/2024/02/galata-koprusu-karakoy-sahil-deniz-istanbul-o
 
 İstanbul Karaköy sahilini işgale gelmiş gibi bir sürü martının görüntüsü ve çıkardığı sesler. Hazırlıksız yakalandım. Her zaman ki gibi kısa ve mobil bir kayıt.
 
-[Ses Dosyası](/assets/sounds/2024/08/martilar-karakoyde-tozu-dumana-kattilar.mp3)
+[Ses Dosyası](/assets/sound/2024/08/martilar-karakoyde-tozu-dumana-kattilar.mp3)
 
 <https://www.youtube.com/watch?v=BN35J0nRHHs>
 

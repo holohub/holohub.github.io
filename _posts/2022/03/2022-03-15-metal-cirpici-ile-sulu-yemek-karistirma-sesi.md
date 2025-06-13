@@ -20,4 +20,4 @@ thumbnail-img: /assets/img/2022/03/mutfak-aletleri-metal-cirpici-kasik-cekmece-b
 
 Metal çırpıcı ile sulu yemek karıştırma sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/metal-cirpici-ile-sulu-yemek-karistirma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/metal-cirpici-ile-sulu-yemek-karistirma-sesi.mp3)

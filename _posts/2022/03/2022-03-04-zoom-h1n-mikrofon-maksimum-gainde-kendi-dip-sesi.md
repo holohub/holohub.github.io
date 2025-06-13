@@ -19,4 +19,4 @@ thumbnail-img: /assets/img/2022/03/zoom-h1n-ses-kayit-cihazi.jpg
 
 Zoom h1n mikrofon maksimum gainde kendi dip sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/zoom-h1n-maksimum-gain-de-kendi-dip-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/zoom-h1n-maksimum-gain-de-kendi-dip-sesi.mp3)

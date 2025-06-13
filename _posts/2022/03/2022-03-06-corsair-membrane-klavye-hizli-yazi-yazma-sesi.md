@@ -20,4 +20,4 @@ thumbnail-img: /assets/img/2022/03/klavye-corsair-mambrane-isik.jpg
 
 Corsair membrane klavye hızlı yazı yazma sesi
 
-[Ses Dosyası](/assets/sounds/2022/03/corsair-membrane-klavye-hizli-yazi-yazma-sesi.mp3)
+[Ses Dosyası](/assets/sound/2022/03/corsair-membrane-klavye-hizli-yazi-yazma-sesi.mp3)
