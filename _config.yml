@@ -201,7 +201,7 @@ footer-hover-col: "#1A9E9E" # Hover efekti ile uyumlu
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-FW427YGPM5"
+gtag: "G-FW427YGPM5"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
